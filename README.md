@@ -20,7 +20,7 @@ No server required.
 - Feel free to submit PRs (pagination, ENS, CSV export, etc.)
 
 ## License
-MIT
+MIT.
 
 ## Roadmap
 - [ ] Pagination (Next/Prev 10 txs)
